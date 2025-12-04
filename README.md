@@ -6,13 +6,6 @@ This project was built as part of a web development tutorial under the guidance 
 
 ---
 
-### 🚀 Live Demo
-
-You can view the live deployed project here:
-**[Click here to view the live project!](https://junaidusmani2468.github.io/Photo-Studio/)**
-
----
-
 ## 📸 Preview
 
 ![Photo Studio Preview](./assets/Photo-Studio-SS.png)
