@@ -39,3 +39,7 @@ As a fun learning note, this project includes an interesting bug that serves as 
     `#check:checked ~ .sidebar_menu { left: 0; }`
 * **The Problem:** The CSS rules to toggle the icons (`#check:checked ~ .btn_one`) do not work. This is because the icons (`.btn_one`, `.btn_two`) are not *siblings* of the `#check` input. They are *nested inside* the `label` elements, which are the actual siblings.
 * **The Result:** The menu slides, but the icons don't toggle! This repository is a great example of how CSS selectors work and the importance of understanding the DOM structure.
+
+## 🙏 Acknowledgements
+
+A huge thank you to **Shradha Khapra** and the **Apna College** team for their invaluable guidance and high-quality educational content that made this project possible.
