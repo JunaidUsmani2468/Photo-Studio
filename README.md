@@ -4,6 +4,12 @@ This is a simple, non-responsive project for a "Photo Studio" website, focusing 
 
 This project was built as part of a web development tutorial under the guidance of **Shradha Khapra (Apna College)**.
 
+## 🚀 Live Demo:
+
+**Click here to view the sleek sidebar animation in action 👉 [Open Photo Studio](https://junaidusmani2468.github.io/Photo-Studio/)**
+
+> ⚠️ **Mobile Users Beware:** This project is designed for **Desktop/PC screens**. It is **not responsive**, so if you open this on your phone, the layout might look a little... abstract (broken). Please use a Laptop or PC for the best experience! 💻
+
 ---
 
 ## 📸 Preview
